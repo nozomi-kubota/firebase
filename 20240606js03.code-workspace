@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../20240606js03"
+		},
+		{
+			"path": "../../0_kadai/20240606js03_kadai"
+		},
+		{
+			"path": "../../06_参考資料等"
+		},
+		{
+			"path": "../../0_kadai"
+		},
+		{
+			"path": "../20240613js"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "20240613js"
+	}
+}
